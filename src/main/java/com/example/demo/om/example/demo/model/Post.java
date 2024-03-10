@@ -1,6 +1,6 @@
 package com.example.demo.om.example.demo.model;
+
 import java.util.Date;
-import java.util.Scanner;
 public class Post {
     private String text;
     private Integer likes;
